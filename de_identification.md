@@ -1,6 +1,6 @@
 #### Awesome Face De-identification
 
-###Papers：
+### Papers：
 
 * Samarzija B, Ribaric S. An approach to the de-identification of faces in different poses[C]//2014 37th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO). IEEE, 2014: 1246-1251.
 
@@ -53,14 +53,14 @@
 * Li L, Bao J, Yang H, et al. [Faceshifter: Towards high fidelity and occlusion aware face swapping](https://arxiv.org/pdf/1912.13457.pdf)[J]. arXiv preprint arXiv:1912.13457, 2019.
 * Petrov I, Gao D, Chervoniy N, et al. [DeepFaceLab: A simple, flexible and extensible face swapping framework](https://arxiv.org/pdf/2005.05535.pdf) [J]. arXiv preprint arXiv:2005.05535, 2020 [homepage](https://github.com/iperov/DeepFaceLab)
 
-###website：
+### website：
 * [FaceMagic](https://zhuanlan.zhihu.com/p/187144959?utm_source=wechat_session&utm_medium=social&utm_oi=61368166252544&utm_campaign=shareopn)
 
 * [D-ID](https://www.deidentification.co/)
 
 * [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
-###researcher
+### researcher
 * [Yuezun Li](https://scholar.google.com/citations?hl=en&user=v0Qt7BAAAAAJ&view_op=list_works&sortby=pubdate)
 
 * [Yinpeng Dong](http://ml.cs.tsinghua.edu.cn/~yinpeng/)
