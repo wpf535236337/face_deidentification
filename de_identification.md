@@ -41,7 +41,6 @@
 
 * Ribaric S, Pavesic N. An overview of face de-identification in still images and videos[C]//2015 11th IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG). IEEE, 2015, 4: 1-6.
 * Ribaric S, Ariyaeeinia A, Pavesic N. De-identification for privacy protection in multimedia content: A survey[J]. Signal Processing: Image Communication, 2016, 47: 131-151
-
 * Nguyen T T, Nguyen C M, Nguyen D T, et al.[Deep learning for deepfakes creation and detection : AURVEY](https://arxiv.org/pdf/1909.11573.pdf) [J]. arXiv preprint arXiv:1909.11573, 2019, 1.
 * Mirsky Y, Lee W. [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/pdf/2004.11138.pdf)[J]. arXiv preprint arXiv:2004.11138, 2020.
 * Tolosana R, Vera-Rodriguez R, Fierrez J, et al. [Deepfakes and beyond: A survey of face manipulation and fake detection](https://arxiv.org/pdf/2001.00179.pdf) [J]. arXiv preprint arXiv:2001.00179, 2020.
@@ -49,23 +48,38 @@
 ### face swap
 
 * Bailer W. Face swapping for solving collateral privacy issues in multimedia analytics[C]//International Conference on Multimedia Modeling. Springer, Cham, 2019: 169-177.
-
 * Li L, Bao J, Yang H, et al. [Faceshifter: Towards high fidelity and occlusion aware face swapping](https://arxiv.org/pdf/1912.13457.pdf)[J]. arXiv preprint arXiv:1912.13457, 2019.
 * Petrov I, Gao D, Chervoniy N, et al. [DeepFaceLab: A simple, flexible and extensible face swapping framework](https://arxiv.org/pdf/2005.05535.pdf) [J]. arXiv preprint arXiv:2005.05535, 2020 [homepage](https://github.com/iperov/DeepFaceLab)
 
-### website：
-* [FaceMagic](https://zhuanlan.zhihu.com/p/187144959?utm_source=wechat_session&utm_medium=social&utm_oi=61368166252544&utm_campaign=shareopn)
+#### style transfer && faces'y
 
-* [D-ID](https://www.deidentification.co/)
+* Richardson E, Alaluf Y, Patashnik O, et al. [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)[J]. arXiv preprint arXiv:2008.00951, 2020. [code](https://github.com/eladrich/pixel2style2pixel)
+* Zhu P, Abdal R, Qin Y, et al. [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization](https://arxiv.org/abs/1911.12861)[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 5104-5113. [code](https://github.com/ZPdesu/SEAN)
 
+#### gan
+
+* [state-of-the-art-image-generative-models](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models)
+
+#### dataset
+
+* [WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection](https://github.com/deepfakeinthewild/deepfake-in-the-wild)
+
+#### project
+
+* [fake-face-detection](https://github.com/592McAvoy/fake-face-detection)
 * [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
+### website：
+* [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+* [face-generation](https://paperswithcode.com/task/face-generation)
+* [FaceMagic](https://zhuanlan.zhihu.com/p/187144959?utm_source=wechat_session&utm_medium=social&utm_oi=61368166252544&utm_campaign=shareopn)
+* [D-ID](https://www.deidentification.co/)
+
 ### researcher
-* [Yuezun Li](https://scholar.google.com/citations?hl=en&user=v0Qt7BAAAAAJ&view_op=list_works&sortby=pubdate)
-
+* [Yuezun Li][https://yuezunli.github.io/]
 * [Yinpeng Dong](http://ml.cs.tsinghua.edu.cn/~yinpeng/)
-
 * [Xiao Yang](https://scholar.google.com/citations?user=bwkwp0MAAAAJ&hl=zh-CN)
-
 * [Lily Meng](https://researchprofiles.herts.ac.uk/portal/en/persons/lily-meng(96317c69-19cb-4db8-b90b-206181ab1739).html)
+* [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html)
+* [Oran Gafni](https://scholar.google.com/citations?user=LAVRNjwAAAAJ&hl=en)
 
