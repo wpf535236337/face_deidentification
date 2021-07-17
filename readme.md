@@ -76,7 +76,7 @@
 * [D-ID](https://www.deidentification.co/)
 
 ### researcher
-* [Yuezun Li][https://yuezunli.github.io]
+* [Yuezun Li](https://yuezunli.github.io)
 * [Yinpeng Dong](http://ml.cs.tsinghua.edu.cn/~yinpeng/)
 * [Xiao Yang](https://scholar.google.com/citations?user=bwkwp0MAAAAJ&hl=zh-CN)
 * [Lily Meng](https://researchprofiles.herts.ac.uk/portal/en/persons/lily-meng(96317c69-19cb-4db8-b90b-206181ab1739).html)
